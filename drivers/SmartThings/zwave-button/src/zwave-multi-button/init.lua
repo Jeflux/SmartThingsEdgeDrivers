@@ -33,7 +33,8 @@ local ZWAVE_MULTI_BUTTON_FINGERPRINTS = {
   {mfr = 0x0086, prod = 0x0002, model = 0x0081}, -- Aeotec Wallmote EU
   {mfr = 0x0086, prod = 0x0102, model = 0x0081}, -- Aeotec Wallmote US
   {mfr = 0x0060, prod = 0x000A, model = 0x0003}, -- Everspring Remote Control
-  {mfr = 0x0086, prod = 0x0001, model = 0x0003} -- Aeotec Mimimote
+  {mfr = 0x0086, prod = 0x0001, model = 0x0003}, -- Aeotec Mimimote
+  {mfr = 0x0208, prod = 0x0200, model = 0x000B} -- Hank Scene Controller
 }
 
 local function can_handle_zwave_multi_button(opts, driver, device, ...)

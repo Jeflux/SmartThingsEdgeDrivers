@@ -111,6 +111,17 @@ local devices = {
       number_of_buttons = 4,
       supported_button_values = {"pushed", "held"}
     }
+  },
+  HANK_SCENE_CONTROLLER = {
+    MATCHING_MATRIX = {
+      mfrs = 0x0208,
+      product_types = 0x0200,
+      product_ids = 0x000B
+    },
+    CONFIGS = {
+      number_of_buttons = 4,
+      supported_button_values = {"pushed", "held"}
+    }
   }
 }
 

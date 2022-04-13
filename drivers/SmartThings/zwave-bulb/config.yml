@@ -1,4 +1,4 @@
-name: 'Z-Wave Bulb'
-packageKey: 'zwave-bulb'
+name: 'Z-Wave Bulb (custom)'
+packageKey: 'zwave-bulb-custom'
 permissions:
   zwave: {}

@@ -68,3 +68,9 @@ zwaveManufacturer:
     manufacturerId: 0x0371
     productId: 0x0016
     deviceProfileName: multi-button-2
+  - id: "0208/0200/000B"
+    deviceLabel: Hank Scene Controller
+    manufacturerId: 0x0208
+    productType: 0x0200
+    productId: 0x000B
+    deviceProfileName: multi-button-4

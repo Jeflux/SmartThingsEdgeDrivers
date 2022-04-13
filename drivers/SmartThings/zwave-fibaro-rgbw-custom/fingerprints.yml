@@ -1,0 +1,7 @@
+zwaveManufacturer:
+  - id: Fibaro_RGBW_Controller/EU
+    deviceLabel: Fibaro Light
+    manufacturerId: 0x010F
+    productType: 0x0900
+    productId: 0x1000
+    deviceProfileName: fibaro-rgbw-controller

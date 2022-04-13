@@ -1,0 +1,4 @@
+name: 'Fibaro RGBW (custom)'
+packageKey: 'fibaro-zwave-custom'
+permissions:
+  zwave: {}

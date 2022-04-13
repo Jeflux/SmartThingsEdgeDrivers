@@ -1,4 +1,4 @@
-name: 'Z-Wave Button'
-packageKey: 'zwave-button'
+name: 'Z-Wave Button (custom)'
+packageKey: 'zwave-button-custom'
 permissions:
   zwave: {}
